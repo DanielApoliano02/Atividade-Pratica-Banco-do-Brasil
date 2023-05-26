@@ -29,3 +29,21 @@ public class Main {
         System.out.println("Cidade: " + cliente.getEnderecoResidencial().getCidade());
     }
 }
+
+*/
+    Nome do cliente: Daniel Apoliano
+Idade: 21
+
+Tipo de Endereço: COMERCIAL
+Logradouro: Quadra 100 Rua 40
+Bairro: Mingone 2
+CEP: 72801040
+Cidade: Luziania
+
+Tipo de Endereço: RESIDENCIAL
+Logradouro: Avenida Aeroporto
+Bairro: Setor Aeroporto
+CEP: 72855100
+Cidade: Luziania
+
+*/
