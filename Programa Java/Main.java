@@ -30,7 +30,7 @@ public class Main {
     }
 }
 
-*/ Resultado do Terminal
+/* Resultado do Terminal
 
 Nome do cliente: Daniel Apoliano
 Idade: 21
