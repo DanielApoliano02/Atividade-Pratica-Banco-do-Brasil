@@ -30,8 +30,9 @@ public class Main {
     }
 }
 
-*/
-    Nome do cliente: Daniel Apoliano
+*/ Resultado do Terminal
+
+Nome do cliente: Daniel Apoliano
 Idade: 21
 
 Tipo de Endereço: COMERCIAL
